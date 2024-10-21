@@ -27,7 +27,7 @@ header {
 }
 
 .container {
-    display: flex;
+/*     display: flex; */
     margin-top: 50px;
     justify-content: space-between;
     align-items: center;
